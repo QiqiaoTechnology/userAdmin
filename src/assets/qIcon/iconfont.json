@@ -1,0 +1,30 @@
+{
+  "id": "2069977",
+  "name": "七巧云管理系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "qicon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "424264",
+      "name": "重置密码",
+      "font_class": "zhongzhimima",
+      "unicode": "e6d8",
+      "unicode_decimal": 59096
+    },
+    {
+      "icon_id": "4512456",
+      "name": "修改密码",
+      "font_class": "xiugaimima",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "12771536",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    }
+  ]
+}

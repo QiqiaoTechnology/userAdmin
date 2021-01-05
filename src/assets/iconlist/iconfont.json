@@ -1,0 +1,86 @@
+{
+  "id": "1813594",
+  "name": "七巧云",
+  "font_family": "qiqiao-iconfont",
+  "css_prefix_text": "qiqiao-icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7274119",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "938392",
+      "name": "消息已读",
+      "font_class": "xinfengdakai",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "167216",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "587333",
+      "name": "刷新",
+      "font_class": "shuaxin",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "4801991",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e776",
+      "unicode_decimal": 59254
+    },
+    {
+      "icon_id": "5327560",
+      "name": "回复",
+      "font_class": "huifu",
+      "unicode": "e717",
+      "unicode_decimal": 59159
+    },
+    {
+      "icon_id": "9592759",
+      "name": "职位",
+      "font_class": "zhiwei",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "5217191",
+      "name": "七巧板",
+      "font_class": "qiqiaoban",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "2057661",
+      "name": "域名与网站",
+      "font_class": "yumingyuwangzhan",
+      "unicode": "e72e",
+      "unicode_decimal": 59182
+    },
+    {
+      "icon_id": "6684308",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "7287570",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e739",
+      "unicode_decimal": 59193
+    }
+  ]
+}
